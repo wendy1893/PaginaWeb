@@ -1,2 +1,2 @@
 # PaginaWeb
-Pagina Web, HTML, CSS Bootstrp, JavaScript
+Pagina Web, HTML, CSS Bootstrap, JavaScript
